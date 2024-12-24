@@ -5,5 +5,4 @@ Notes:
 -Reconstructed from Youtube footage, leaving some "Press" answers unfilled and many inaccuracies.
 -Any humour and cleverness has been lost by Google Translate, and has stayed lost by me.
 -Done in Ren'py, with some dodginess to accommodate. An interpreter cooked up in another engine would fare better.
--If there was humour and cleverness, it got lost
 -Vision for the whole trilogy would be a pretend good faith effort from the assumption that both source franchises are Scooby-Doo ripoffs.
