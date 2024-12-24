@@ -334,6 +334,7 @@ label case_1_2_2:
                     ]
                 tes_poses = ["m","m_blink","m","m_thinking","m_sad","m","m_blink"]
             elif tes_name == "TSURUYA":
+                tes_speaker = t_1
                 tes_bool = [1,1,1,1,0,0,0,0,0,0]
                 tes_values = [
                             "I went to the literature club room with [m_1] at lunch.".replace("[m_1]",m_1),
